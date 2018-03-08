@@ -1,0 +1,9 @@
+{
+    "name": "rpi-temp",
+    "version": "0.0.1",
+    "dependencies": {
+        "async": "2.0.1",
+        "ds18b20": "0.1.0",
+        "thingspeakclient": "0.4.0"
+    }
+}
